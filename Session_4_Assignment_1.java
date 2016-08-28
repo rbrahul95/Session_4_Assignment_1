@@ -1,13 +1,9 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+Print reverse of an array
  */
 package acadglid;
 
-/**
- *
- * @author My
- */
+//Problem 1
 public class Session_4_Assignment_1 {
     public static void main (String[] args){ 
 int arrnum [] = new int []{12,10,100,67,90}; 
