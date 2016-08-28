@@ -1,5 +1,5 @@
 /*
-Print reverse of an array
+Print reverse of an array.
  */
 package acadglid;
 
